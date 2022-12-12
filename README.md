@@ -8,5 +8,5 @@ code refactor
 ##picture
 
 #git_hub diploy link: https://ajinthapa2000.github.io/week-challenge1/
-#git hub repository week-challenge1 link:
+#git hub repository week-challenge1 link: https://github.com/AjinThapa2000/week-challenge1
 
